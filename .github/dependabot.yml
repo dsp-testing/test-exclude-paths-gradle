@@ -1,0 +1,9 @@
+version: 2
+updates:
+  - package-ecosystem: gradle
+    directory: /
+    schedule:
+      interval: daily
+    # Exclude subproject2 from updates
+    exclude-paths:
+      - subproject2/**
