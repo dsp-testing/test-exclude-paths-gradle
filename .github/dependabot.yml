@@ -7,3 +7,4 @@ updates:
     # Exclude subproject2 from updates
     exclude-paths:
       - subproject2/**
+      - composite-builds/excluded-composite/**
