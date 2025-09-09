@@ -1,0 +1,4 @@
+dependencies {
+    implementation 'io.netty:netty-all:4.1.87.Final'
+    implementation 'com.squareup.okhttp3:okhttp:4.10.0'
+}
