@@ -1,0 +1,2 @@
+rootProject.name = 'excluded-composite'  
+include 'nested-project'  // This creates transitive dependency that should be excluded
