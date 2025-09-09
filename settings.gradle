@@ -1,2 +1,3 @@
 rootProject.name = 'test-gradle-repo'
 include 'subproject1', 'subproject2'
+includeBuild 'composite-builds/excluded-composite'
